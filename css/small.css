@@ -6,10 +6,15 @@
 
 .hero img{
   border-radius: 0;
+  position: center;
 }
 
 aside.right, aside.left {
   text-align: center;
   float: inherit;
 
+}
+
+map{
+  position: center
 }

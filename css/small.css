@@ -4,8 +4,9 @@
   padding: 0;
 }
 
-.hero img{
+.hero{
   border-radius: 0;
+  padding-left: 100px;
 
 }
 
